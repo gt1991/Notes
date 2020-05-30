@@ -1,0 +1,24 @@
+# Curl with apps
+
+#Man pages with examples for commands
+curl cheat.sh
+Ex. curl cheat.sh/ls
+
+#Weather
+curl wttr.in
+
+#QR Code
+curl grenco.de/<url>
+
+#Crypto Pricing
+curl rate.sx/btc
+
+#Shorten URL
+curl -F 'shorten=www.yahoo.com' https://0x0.st
+
+#Tech News
+curl getnews.tech/tesla
+
+#Redirect
+curl -L bit.ly/498@yr
+
